@@ -1,0 +1,15 @@
+{
+  "pack_format": 1,
+  "id": "kalt",
+  "name": "K-Alt",
+  "description": "Korean alt-rock and nu-metal inspired by Linkin Park. Four variants spanning emotional alt-rock, industrial alt-metal, maximum aggression nu-metal, and female rap-rock.",
+  "version": "1.0.0",
+  "author": "koi-box",
+  "category_id": "kalt",
+  "variants": [
+    "lee-park",
+    "glass-war",
+    "shin-oda",
+    "bite-back"
+  ]
+}
