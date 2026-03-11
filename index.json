@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "id": "kalt",
+      "user": "cssquirrel",
+      "name": "K-Alt",
+      "description": "Korean alt-rock and nu-metal inspired by Linkin Park. Four variants: emotional alt-rock, industrial alt-metal, screamo nu-metal, and female rap-rock.",
+      "version": "1.0.0",
+      "path": "packs/cssquirrel/kalt",
+      "variants": ["lee-park", "glass-war", "shin-oda", "bite-back"]
+    }
+  ]
+}
